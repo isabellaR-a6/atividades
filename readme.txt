@@ -1,0 +1,1 @@
+Na aula de hoje tivemos nosso primeiro contato com o portugol fazendo uma lista de exercício 
